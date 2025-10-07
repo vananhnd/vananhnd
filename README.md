@@ -1,6 +1,6 @@
 <!-- Banner  -->
   <img 
-    src="https://i.pinimg.com/originals/ac/39/58/ac3958e3e82f09c3d19facba53badd93.gif"
+    src="https://64.media.tumblr.com/61d4fea89f86eb4cb5a7e616d9cd4832/tumblr_owi25v6uAo1r4gsiio1_1280.gif"
     width="100%" 
   />
 
@@ -36,5 +36,5 @@
 </p>
 
 <img width="100%"
-    src="https://64.media.tumblr.com/61d4fea89f86eb4cb5a7e616d9cd4832/tumblr_owi25v6uAo1r4gsiio1_1280.gif"
+    src="https://i.pinimg.com/originals/ac/39/58/ac3958e3e82f09c3d19facba53badd93.gif"
   />
