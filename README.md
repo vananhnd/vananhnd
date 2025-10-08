@@ -7,7 +7,7 @@
 <h1 align="center">Hi 👋, It's nice to meet you</h1>
 <h5 align="center">I'm Van Anh. A passionate web developer from Viet Nam</h5>
 
-## A little bit bout me
+## About me
 <img
             align="right" height=130
             src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZjdxZWo1aHdoMXBwdmk4bHozcTcxNDFjNDRzbHV2YWI0bmFzZWFleiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Y0b2MpUTfnrUa3jIM7/giphy.gif"
@@ -15,7 +15,7 @@
 
 
 👩🏻‍💻 I’m currently working as a **Front- End Developer** <br>📫 My contact **dvanh4@gmail.com**<br>
- My linkedin <a href="https://www.linkedin.com/in/anh-dao-953649273/" target="_blank">
+🔗 My linkedin <a href="https://www.linkedin.com/in/anh-dao-953649273/" target="_blank">
          **Anh Dao**
     </a>
 <br>☕️ Fun fact **I in love with coffee**
