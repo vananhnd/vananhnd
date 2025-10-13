@@ -7,7 +7,9 @@
 <h1 align="center">Hi 👋, It's nice to meet you</h1>
 <h5 align="center">I'm Van Anh. A passionate web developer from Viet Nam</h5>
 
-## About me
+<br>
+
+# About me
 <img
             align="right" height=130
             src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZjdxZWo1aHdoMXBwdmk4bHozcTcxNDFjNDRzbHV2YWI0bmFzZWFleiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Y0b2MpUTfnrUa3jIM7/giphy.gif"
@@ -19,7 +21,11 @@
          **Anh Dao**
     </a>
 <br>☕️ Fun fact **I in love with coffee**
-## My Tech Stack
+
+<br>
+
+# My Tech Stack <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="25">
+
 <br>
 <p align="center">
     <img
@@ -34,7 +40,25 @@
         src="https://skillicons.dev/icons?i=nodejs,mongodb,mysql,firebase"
     />
 </p>
+<br>
 
+# My GitHub Insights <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHowajhvdXY5cHJlZDE3ZmMzbzJrbm82Mm15MHFieTA0amQ4MGs0ZiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/KZ5vbaMeeX67dQn5qU/giphy.gif" width="25">
+
+<!-- <div align="center">  
+  <img width="49%" height="195px" 
+       src="https://github-readme-stats.vercel.app/api?username=vananhnd&show_icons=true&count_private=true&hide_border=true&title_color=3d85c6&icon_color=ff79c6&text_color=f8f8f2&bg_color=282a36" 
+       alt="Filipe Magalhães github stats"/> 
+  <img width="41%" height="195px" 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=vananhnd&layout=compact&hide_border=true&title_color=3d85c6&text_color=f8f8f2&bg_color=282a36&langs_count=6&icon_color=ff79c6"/> 
+</div> -->
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vananhnd&theme=nord&no-bg=true&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+## GitHub Trophies <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExejRtaHB1dDFia2IwZzJxNXdpZTE0bGE3ZnRuZW8zeGowbTRkbmpoYSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/3oEhn80aXdOBpa4FMs/giphy.gif" width="35">
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vananhnd&theme=nord&row=2&no-bg=true&column=4&margin-w=15&margin-h=15&no-bg=true" />
+</p>
+<br>
 <img width="100%"
     src="https://i.pinimg.com/originals/ac/39/58/ac3958e3e82f09c3d19facba53badd93.gif"
   />
