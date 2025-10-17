@@ -4,8 +4,10 @@
     width="100%" 
   />
 
-<h1 align="center">Hi 👋, It's nice to meet you</h1>
-<h5 align="center">I'm Van Anh. A passionate web developer from Viet Nam</h5>
+<h1 align="center">Front- End Developer</h1>
+<h5 align="center"><i>
+I'm a self-taught developer with a deep passion for coding. I find immense satisfaction in tackling complex challenges and building efficient, reliable solutions. Every project allows me to be creative and continuously expand my knowledge. Coding isn’t just a career for me—it’s a fulfilling journey. The sense of achievement that comes from solving a tough problem is unmatched, and I wouldn’t trade that experience for anything.
+</i></h5>
 
 <br>
 
@@ -16,7 +18,9 @@
         />
 
 
-👩🏻‍💻 I’m currently working as a **Front- End Developer** <br>📫 My contact **dvanh4@gmail.com**<br>
+📝 I’m currently learning Angular<br>
+👩🏻‍💻 I usually work with Next.js & Typescript <br>
+📫 My contact **dvanh4@gmail.com**<br>
 🔗 My linkedin <a href="https://www.linkedin.com/in/anh-dao-953649273/" target="_blank">
          **Anh Dao**
     </a>
